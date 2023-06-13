@@ -297,9 +297,6 @@ img {
 
 /**---------- FEATURE -----------**/
 
-.container-features {
-   margin-bottom: 8px;
-}
 
 .visually-hidden {
   position: absolute; 
@@ -333,7 +330,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   width: 264px;
   height: 112px;
   background: #F4F4FD;
