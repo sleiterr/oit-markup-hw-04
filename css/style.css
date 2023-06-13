@@ -606,10 +606,15 @@ img {
   overflow: hidden;
 }
 
-.portfolio-item:is(:hover, :focus)
-.cover-title {
+.portfolio-item:hover .cover-title, 
+.portfolio-item:focus .cover-title {
   transform: translateY(0);
 }
+
+/* .portfolio-item:is(:hover, :focus)
+.cover-title {
+  transform: translateY(0);
+} */
 
 .cover-title {
   font-weight: 400;
