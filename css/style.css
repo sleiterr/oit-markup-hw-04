@@ -468,6 +468,7 @@ img {
   height: 100%;
   padding: 12px;
   border-radius: 50%;
+  fill: #F4F4FD;
   background-color: #4D5AE5;
   border: 1px solid #4D5AE5;
   transition: background-color var(--transition);
@@ -479,9 +480,9 @@ img {
   border: 1px solid transparent;
 }
 
-.soc-icon {
+/* .soc-icon {
   fill: #F4F4FD;
-}
+} */
 
 /**=========== CUSTOMERS ===========**/
 
