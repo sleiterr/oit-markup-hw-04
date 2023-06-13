@@ -606,8 +606,8 @@ img {
   overflow: hidden;
 }
 
-.portfolio-item:hover .cover-title, 
-.portfolio-item:focus .cover-title {
+.portfolio-link:hover .cover-title, 
+.portfolio-link:focus .cover-title {
   transform: translateY(0);
 }
 
